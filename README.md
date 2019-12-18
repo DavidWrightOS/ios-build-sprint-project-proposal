@@ -6,15 +6,15 @@
 
 ## Requirements
 
-1. Team Members: `<Who's working on this app?>`
-2. App Name: `<What's the app name?>`
+1. Team Members: `Gerardo Hernandez, David Wright`
+2. App Name: `Countdown Tracker`
 3. App Description (3-5 sentences):
 
-    `<Explain your app to your Grandma (or a 5-year old child)>`
+`This app will allow the user to set custom countdown timers that will countdown the amount of time until the provided date. The user will be able to decide how granular the countdowns should be and sort/filter the events by tags/categories or show in order of when they will come due.`
     
 4. Your #1 Customer (Who would use your app? Why now?)
  
-    `<Be specific and focus on a real person>`
+ `Event planners (#2 college students). Future plans to add app integration with Apple Watch will allow users to take advantage of new technologies.`
     
 5. Github code repository: `<Create a Github Project>`
 6. Github Project/Trello Board: `<Post your link to your Kanban board>`
