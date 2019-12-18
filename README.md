@@ -14,10 +14,10 @@
     
 4. Your #1 Customer (Who would use your app? Why now?)
  
- `Event planners (#2 college students). Future plans to add app integration with Apple Watch will allow users to take advantage of new technologies.`
+ `College Students (#2 Event planners). Future plans to add app integration with Apple Watch will allow users to take advantage of new technologies.`
     
-5. Github code repository: `<Create a Github Project>`
-6. Github Project/Trello Board: `<Post your link to your Kanban board>`
+5. Github code repository: `https://github.com/gh04/Unit-1-Countdown-Tracker`
+6. Github Project/Trello Board: `https://github.com/gh04/Unit-1-Countdown-Tracker/projects/1`
 7. Create a Slack DM Group with your partner, TL, and Instructor and say "hi!"
 
 ## Part 1: Brainstorming
@@ -56,9 +56,9 @@ Add photos, notes, and sketches from your brain storming session.
 
 Add your top 3-5 features (core functionality) from the Prioritize brainstorming step. These should be things that are part of the MVP (not a log in screen). Build for the demo day (i.e.: Apple never shows how to log into the Apple ID on stage).
 
-1. `<Feature 1: What will this help your #1 Customer do?>`
-2. `<Feature 2 (How will this help the customer?>`
-3. `<Feature 3 ...>`
+1. `Feature 1: User adjustable countdown display time granularity - This will help simplify the data on the screen and allow students to focus on the most important time inderval (e.g. hours, days, etc.)`
+2. `Feature 2: Add Tags/Categories - This will help students organize various events by assigning them specific categories (e.g. due dates for a specific class).`
+3. `Feature 3: Sort/Filter Events - This will help students quickly view the events that are most important to them at the moment, whether time-based or category-based (e.g. homework due this week for class "X").`
 
 ## Part 2: Project Plan
 
