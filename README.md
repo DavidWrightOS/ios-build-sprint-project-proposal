@@ -6,18 +6,18 @@
 
 ## Requirements
 
-1. Team Members: `<Who's working on this app?>`
-2. App Name: `<What's the app name?>`
+1. Team Members: `<Josh Rutkowski, Sal Amer, David Wright>`
+2. App Name: `<Hydrate>`
 3. App Description (3-5 sentences):
 
-    `<Explain your app to your Grandma (or a 5-year old child)>`
+`<This app will allow users to keep track of how much water they are drinking throughout the day. The user can enter the amount of water the are drinking throughout the day, and the app will display the total water consumed for that day. The user may choose to enable notifications and the app will notify them if their total water intake is significantly below the recommended daily intake.>`
     
 4. Your #1 Customer (Who would use your app? Why now?)
  
-    `<Be specific and focus on a real person>`
+ `<This app is designed for anyone who cares about their health but may have a difficult time remembering to stay hydrated.>`
     
-5. Github code repository: `<Create a Github Project>`
-6. Github Project/Trello Board: `<Post your link to your Kanban board>`
+5. Github code repository: `<TBD>`
+6. Github Project/Trello Board: `<TBD>`
 7. Create a Slack DM Group with your partner, TL, and Instructor and say "hi!"
 
 ## Part 1: Brainstorming
