@@ -7,7 +7,7 @@
 ## Requirements
 
 1. Team Members: `Josh Rutkowski, Sal Amer, David Wright`
-2. App Name: `<Hydrate>`
+2. App Name: `Hydrate`
 3. App Description (3-5 sentences):
 
 `This app will allow users to keep track of how much water they are drinking throughout the day. The user can enter the amount of water the are drinking throughout the day, and the app will display the total water consumed for that day. The user may choose to enable notifications and the app will notify them if their total water intake is significantly below the recommended daily intake.`
@@ -51,6 +51,15 @@ Add photos, notes, and sketches from your brain storming session.
         2. Take notes and write down any of their ideas
 2. If you have tons of ideas, set a timer again and keep going.
 3. Don't filter yourself in the brainstorming phase, you want to capture everything and anything
+
+### Brainstorming Mindmap
+![Brainstorming Mindmap](https://github.com/DavidWrightOS/ios-build-sprint-project-proposal/blob/bw4-Hydrate/David-Mindmap.jpg)
+
+### Brainstorming List
+[David-List.md](https://github.com/DavidWrightOS/ios-build-sprint-project-proposal/blob/bw4-Hydrate/David-List.md)
+
+### Brainstorming Sketch
+`<TBD>`
 
 ## Top Features (Prioritize)
 
