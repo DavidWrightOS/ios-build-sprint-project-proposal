@@ -56,9 +56,9 @@ Add photos, notes, and sketches from your brain storming session.
 
 Add your top 3-5 features (core functionality) from the Prioritize brainstorming step. These should be things that are part of the MVP (not a log in screen). Build for the demo day (i.e.: Apple never shows how to log into the Apple ID on stage).
 
-1. `<Feature 1: What will this help your #1 Customer do?>`
-2. `<Feature 2 (How will this help the customer?>`
-3. `<Feature 3 ...>`
+1. Feature 1: `<Allow user to enter water intake throught the day and display the total for intake for that day on the main screen.>`
+2. Feature 2: `<Display the users historical data in a tableView. Allow the user to add, edit, and delete data points at any time.>`
+3. Feature 3: `<Send push notifications to the user at a specified time if they have not reached a specified amount of water>`
 
 ## Part 2: Project Plan
 
