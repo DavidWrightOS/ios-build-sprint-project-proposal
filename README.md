@@ -6,15 +6,15 @@
 
 ## Requirements
 
-1. Team Members: `<Josh Rutkowski, Sal Amer, David Wright>`
+1. Team Members: `Josh Rutkowski, Sal Amer, David Wright`
 2. App Name: `<Hydrate>`
 3. App Description (3-5 sentences):
 
-`<This app will allow users to keep track of how much water they are drinking throughout the day. The user can enter the amount of water the are drinking throughout the day, and the app will display the total water consumed for that day. The user may choose to enable notifications and the app will notify them if their total water intake is significantly below the recommended daily intake.>`
+`This app will allow users to keep track of how much water they are drinking throughout the day. The user can enter the amount of water the are drinking throughout the day, and the app will display the total water consumed for that day. The user may choose to enable notifications and the app will notify them if their total water intake is significantly below the recommended daily intake.`
     
 4. Your #1 Customer (Who would use your app? Why now?)
  
- `<This app is designed for anyone who cares about their health but may have a difficult time remembering to stay hydrated.>`
+ `This app is designed for anyone who cares about their health but may have a difficult time remembering to stay hydrated.`
     
 5. Github code repository: `<TBD>`
 6. Github Project/Trello Board: `<TBD>`
@@ -56,9 +56,9 @@ Add photos, notes, and sketches from your brain storming session.
 
 Add your top 3-5 features (core functionality) from the Prioritize brainstorming step. These should be things that are part of the MVP (not a log in screen). Build for the demo day (i.e.: Apple never shows how to log into the Apple ID on stage).
 
-1. Feature 1: `<Allow user to enter water intake throught the day and display the total for intake for that day on the main screen.>`
-2. Feature 2: `<Display the users historical data in a tableView. Allow the user to add, edit, and delete data points at any time.>`
-3. Feature 3: `<Send push notifications to the user at a specified time if they have not reached a specified amount of water>`
+1. Feature 1: `Allow user to enter water intake throught the day and display the total for intake for that day on the main screen.`
+2. Feature 2: `Display the users historical data in a tableView. Allow the user to add, edit, and delete data points at any time.`
+3. Feature 3: `Send push notifications to the user at a specified time if they have not reached a specified amount of water`
 
 ## Part 2: Project Plan
 
